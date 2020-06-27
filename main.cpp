@@ -3,8 +3,9 @@
 #include "fonction.h"
 
 int main() {
+
 	std::cout << "HY Mathieu !" << std::endl;
     int x = 30;
-    x = x + 1;
-    afficher(x);
+    x = x + 2;
+
 }
