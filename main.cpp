@@ -8,7 +8,7 @@ int main() {
 std::cout << " Voila le premier transfere de Git Anoymous  !" << std::endl;
 
 
-    int x = 50;
+    int x = 145788850;
 
     x = x + 1;
 
