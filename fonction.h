@@ -4,7 +4,7 @@
 #include <iostream>
 
 void afficher(int valeur) {
-    std::cout << valeur << std::endl;
+    std::cout << "Valeur=" << valeur << std::endl;
 }
 
 #endif
