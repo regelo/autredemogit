@@ -3,8 +3,8 @@
 #include "fonction.h"
 
 int main() {
-	std::cout << "TEST !" << std::endl;
-    int x = 50;
+	std::cout << "HY Mathieu !" << std::endl;
+    int x = 30;
     x = x + 1;
     afficher(x);
 }
