@@ -7,4 +7,6 @@ int main() {
     int x = 50;
     x = x + 1;
     afficher(x);
+    
+    std::cout << "une modification" << std::endl;
 }
