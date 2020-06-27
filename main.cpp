@@ -8,4 +8,6 @@ int main() {
     x = x + 1;
     x = x * x; 
     afficher(x);
+
+    std::cout << "projet git1 collaborateur Menade hamdaoui" << std::endl;
 }
