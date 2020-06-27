@@ -16,12 +16,14 @@ std::cout << " Voila le premier transfere de Git  !" << std::endl;
 
     afficher(x);
     
-    std::cout << "une modification" << std::endl;
+    std::cout << "nouvel essai" << std::endl;
+
+
  
 }
 
 
 
-}
+
 
 
