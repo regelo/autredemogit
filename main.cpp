@@ -5,6 +5,6 @@
 int main() {
 	std::cout << "TEST !" << std::endl;
     int x = 50;
-    x = x + 1;
+    x = x + 2;
     afficher(x);
 }
