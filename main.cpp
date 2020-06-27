@@ -4,6 +4,7 @@
 
 int main() {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	std::cout << " Voila le premier transfere de Git  !" << std::endl;
 =======
 	std::cout << "Mon outil est plus meilleur, ctun DEWALT!" << std::endl;
@@ -15,3 +16,11 @@ int main() {
     x++;
     afficher(x);
 }
+=======
+
+	std::cout << "HY Mathieu !" << std::endl;
+    int x = 30;
+    x = x + 2;
+
+}
+>>>>>>> origin/master
