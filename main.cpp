@@ -11,6 +11,7 @@ int main() {
     int x = 50;
 
     x = x + 1;
-    x = x * x; 
+    x = x * x;
+    x++;
     afficher(x);
 }
