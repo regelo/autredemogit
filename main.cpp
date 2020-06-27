@@ -9,6 +9,7 @@ int main() {
 	std::cout << "Mon outil est plus meilleur, ctun DEWALT!" << std::endl;
 >>>>>>> origin/master
     int x = 50;
+
     x = x + 1;
     x = x * x; 
     afficher(x);
