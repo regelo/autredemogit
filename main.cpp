@@ -3,7 +3,11 @@
 #include "fonction.h"
 
 int main() {
-	std::cout << "Test de La Force!" << std::endl;
-    int x = 5;
+	std::cout << "Mon outil est plus meilleur, ctun DEWALT!" << std::endl;
+    int x = 50;
+
+    x = x + 1;
+    x = x * x;
     x++;
+    afficher(x);
 }
