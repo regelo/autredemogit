@@ -10,8 +10,7 @@ int x = 145788850;
 x = x + 1;
 x = 5;
 afficher(x);
-double y=Generer(x);
-std ::cout<<"Generation d'un nombre aleatoire : "<<y<<std::endl;    
+std ::cout<<"Generation d'un nombre aleatoire : "<<Generer(x)<<std::endl;    
 std::cout << "nouvel essai" << std::endl; 
 
 }
