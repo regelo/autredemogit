@@ -8,3 +8,4 @@ Debug
 *.sln
 *.gitattributes
 *.vs
+*.java
