@@ -5,7 +5,7 @@
 
 int main() {
 
-std::cout << " Voila le premier transfere de Git   !" << std::endl;
+std::cout << " Voila le premier n ième Git transfert  !" << std::endl;
 int x = 145788850;
 x = x + 1;
 x = 5;
