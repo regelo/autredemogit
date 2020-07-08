@@ -1,11 +1,22 @@
 #include <iostream>
 
 #include "fonction.h"
+#include "fonction2.h"
 
 int main() {
-	std::cout << "TEST !" << std::endl;
-    int x = 50;
-    int y = 8;
-    x = x + 1;
-    afficher(x);
+std::cout << " Voila le premier n ième Git transfert  !" << std::endl;
+int x = 145788850;
+x = x + 1;
+x = 5;
+afficher(x);
+std ::cout<<"Generation d'un nombre aleatoire : "<<Generer(x)<<std::endl;    
+std::cout << "nouvel essai" << std::endl; 
+afficher(x);
+
 }
+
+
+
+
+
+

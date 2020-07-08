@@ -2,3 +2,12 @@ Debug
 *.mk
 *.project
 *.txt
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.gitattributes
+*.vs
+*.java
+*.sln
+*.xml

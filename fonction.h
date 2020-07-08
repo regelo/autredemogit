@@ -5,6 +5,7 @@
 
 void afficher(int valeur) {
     std::cout << "La vareerererererleur est " << valeur << std::endl;
+    std::cout << "cette nouvelle valeur est: " << valeur << std::endl;
 }
 
 #endif
