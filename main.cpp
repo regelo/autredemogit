@@ -12,7 +12,6 @@ afficher(x);
 std ::cout<<"Generation d'un nombre aleatoire : "<<Generer(x)<<std::endl;    
 std::cout << "nouvel essai" << std::endl; 
 afficher(x);
-
 }
 
 
