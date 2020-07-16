@@ -8,7 +8,7 @@ int main() {
 std::cout << " Voila le premier n ième Git transfert  !" << std::endl;
 int x = 145788850;
 x = x + 1;
-x = 5;
+x = 6;
 afficher(x);
 std ::cout<<"Generation d'un nombre aleatoire : "<<Generer(x)<<std::endl;    
 std::cout << "nouvel essai" << std::endl; 
